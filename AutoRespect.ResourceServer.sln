@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoRespect.Infrastructure.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoRespect.Infrastructure.DataAccess", "submodules\AutoRespect2.0-Infrastructure\src\AutoRespect.Infrastructure.DataAccess\AutoRespect.Infrastructure.DataAccess.csproj", "{C55523DC-4C58-429B-88F9-42B79C3336D6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{242FEB44-5FD3-4728-89FE-8696BA10DFB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -250,6 +252,7 @@ Global
 		{48490034-AD8C-4598-B0DF-32DE376E608C} = {3663EBF0-B78D-4D31-81E2-6DCE70694A5A}
 		{19F17144-180E-481D-AF55-8B25BC4337C3} = {3663EBF0-B78D-4D31-81E2-6DCE70694A5A}
 		{C55523DC-4C58-429B-88F9-42B79C3336D6} = {3663EBF0-B78D-4D31-81E2-6DCE70694A5A}
+		{242FEB44-5FD3-4728-89FE-8696BA10DFB8} = {39A6D496-0566-47FA-B0BD-019AF51EA0A3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C74DDBA-9B49-4B2A-A365-565137F27A82}
